@@ -1,0 +1,15 @@
+uvicorn 
+fastapi 
+underthesea 
+nltk 
+bs4 
+transformers 
+torch
+colabcode
+timeout_decorator
+streamlit
+lxml
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pyngrok
